@@ -3,7 +3,7 @@
 ### SMALL SUMMARY 
 
 *GROWTH MINDSET* 
-It can open pathways to more creativity and possibility, and enable the setting
+can open pathways to more creativity and possibility, and enable the setting
 of higher goals and more achievement.
 
 
@@ -21,4 +21,4 @@ here is the image describe the *GROWTH MINDSET*
 ![GitHub](https://blog.cengage.com/wp-content/uploads/2020/11/blog-growth-mindset-1511130.png)
 
 SO NOW I INTRODUCE MYSELF, My name is ** _Noor Abu Khalaf_** I am an Architect, Now I wish to be good Web developer 
-here is my profile link (https://github.com/NoorAbuKhalaf)
+## here is my profile link (https://github.com/NoorAbuKhalaf)
