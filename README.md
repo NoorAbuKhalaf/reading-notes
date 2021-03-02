@@ -1,8 +1,10 @@
 # reading-notes
-## second heading
-### third heading 
+## **GROWTH MINDSET**
+### SMALL SUMMARY 
 
-learning Markdown
+*GROWTH MINDSET* 
+It can open pathways to more creativity and possibility, and enable the setting
+of higher goals and more achievement.
 **Noor**
 
 ### List 
