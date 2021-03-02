@@ -19,3 +19,6 @@ who has a growth mind set he embraces the challenges and keep going.
 here is the image describe the *GROWTH MINDSET*
 
 ![GitHub](https://blog.cengage.com/wp-content/uploads/2020/11/blog-growth-mindset-1511130.png)
+
+SO NOW I INTRODUCE MYSELF, My name is ** _Noor Abu Khalaf_** I am an Architect, Now I wish to be good Web developer 
+here is my profile link (https://github.com/NoorAbuKhalaf)
