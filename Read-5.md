@@ -24,7 +24,6 @@ the applications of JAVA Script on the browser will be like:
 4. filtering data 
 
 # exampels
-![GitHub](https://i.ytimg.com/vi/aN7WnodpP4Q/maxresdefault.jpg)
 ![GitHub](https://flatlogic.com/blog/wp-content/uploads/2020/05/Frame-48EFefA.png)
 
 ## what shoud I do before learning JAVA Script language itself?
