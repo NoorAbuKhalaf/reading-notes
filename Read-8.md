@@ -18,15 +18,6 @@ parts: a property and a value,
 
 ![radingn-notes](https://puzzleweb.ru/en/images/css/1_1.png)
 
-# example code for external CSS 
-<!DOCTYPE html>
-<html>
-<head>
-<title>Using External CSS</title>
-<link href="css/styles.css" type="text/css"
-rel="stylesheet" />
-</head>
-
 ## CSS rules usually appear in a separate document, although they may appear within an HTML page.
 
 # color
@@ -38,17 +29,6 @@ color in CSS in one of three ways:
 1. rgb values
 2. hex codes
 3. color names
- 
- like this example code 
- /* color name */
-h1 {
-color: DarkCyan;}
-/* hex code */
-h2 {
-color: #ee3e80;}
-/* rgb value */
-p {
-color: rgb(100,100,90);}
 
 # background-color
 You can specify your choice of background color in the same three ways you can specify foreground colors
@@ -64,11 +44,9 @@ green, and blue. To find the color you want, you can use a color picker.
 
 ## hsla (a it's related to alpha which means opacity )
 
-CSS3 has introduced an extra value for RGB colors to
-indicate opacity. It is known as RGBA.
+### CSS3 has introduced an extra value for RGB colors to indicate opacity. It is known as RGBA.
 
-CSS3 also allows you to specify colors as HSL values,
-with an optional opacity value. It is known as HSLA.
+### CSS3 also allows you to specify colors as HSL values, with an optional opacity value. It is known as HSLA.
 
 
 
